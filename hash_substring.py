@@ -60,7 +60,7 @@ def get_occurrences(pattern, text):
                 pos_count=pos_count+1
 
     # print(pattern_hash)
-    # print(tex_hash)
+    # print(tex_hash) 
     # print(text[:pattern_len])
     # and return an iterable variable
     return result
